@@ -1,0 +1,9 @@
+train: D:/pframework/ImageProcessing/archive/ultralytics/datasets/train
+val: D:/pframework/ImageProcessing/archive/ultralytics/datasets/val
+test: D:/pframework/ImageProcessing/archive/ultralytics/datasets/test
+    
+nc: 1
+    
+names: [
+    'license_plate'
+]
